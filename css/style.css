@@ -13,7 +13,7 @@ body {
 }
 
 .bgfundo {
-  background: url(../pizza1.png) no-repeat center/cover;
+  background: url(../img/pizza1.png) no-repeat center/cover;
 
   /*background-color: blue;
      background-image: url(https://placehold.co/1920x1080);
@@ -196,7 +196,7 @@ text-align: center;
 
 & .sec-menu {
 justify-content: center;
-color: #fff;
+color: #7f0606;
 
 }
 
@@ -235,7 +235,7 @@ margin: 20px 0;
   text-transform: uppercase;
 
   & h2 {
-    color: #e7a200;
+    color: #e76400;
     font-size: 28px;
     line-height: 80px;
     margin: 0;
@@ -276,7 +276,7 @@ margin: 20px 0;
   }
 
   input[type="submit"] {
-    background: #e7a200;
+    background: #c71b04;
     border-color: #e7a200;
     width: 155px;
     border-radius: 50px;
